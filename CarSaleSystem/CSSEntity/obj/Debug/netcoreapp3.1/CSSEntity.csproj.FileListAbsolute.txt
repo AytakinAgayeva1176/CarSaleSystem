@@ -1,0 +1,9 @@
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\bin\Debug\netcoreapp3.1\CSSEntity.deps.json
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\bin\Debug\netcoreapp3.1\CSSEntity.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\bin\Debug\netcoreapp3.1\CSSEntity.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\obj\Debug\netcoreapp3.1\CSSEntity.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\obj\Debug\netcoreapp3.1\CSSEntity.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\obj\Debug\netcoreapp3.1\CSSEntity.AssemblyInfo.cs
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\obj\Debug\netcoreapp3.1\CSSEntity.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\obj\Debug\netcoreapp3.1\CSSEntity.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSEntity\obj\Debug\netcoreapp3.1\CSSEntity.pdb

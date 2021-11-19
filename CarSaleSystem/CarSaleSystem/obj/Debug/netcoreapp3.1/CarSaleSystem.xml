@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarSaleSystem</name>
+    </assembly>
+    <members>
+        <member name="M:CarSaleSystem.Controllers.BrandController.GetById(System.Int32)">
+            <summary>
+            Get Brand by Id
+            </summary>
+            <param name="id">Brand Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.BrandController.GetAllBrands">
+            <summary>
+            Get All Brands
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.CarController.GetById(System.Int32)">
+            <summary>
+            Get Car by Id
+            </summary>
+            <param name="id">Car Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.CarController.GetAllCars(CSSAccess.ViewModels.CarSearchModel)">
+             <summary>
+             Get All Cars
+             </summary>
+            <param name="model">Car Search Model</param>
+             <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.CarController.Create(CSSAccess.ViewModels.CarCreateModel)">
+            <summary>
+            Add New Car
+            </summary>
+            <param name="model">Car object</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.CarController.Update(CSSAccess.ViewModels.CarViewModel)">
+            <summary>
+            Update Car 
+            </summary>
+            <param name="model">Car object</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.CarController.DeleteCar(System.Int32)">
+            <summary>
+            Delete Car 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.ModelController.GetById(System.Int32)">
+            <summary>
+            Get Model by Id
+            </summary>
+            <param name="id">Model Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.ModelController.GetAllModels">
+            <summary>
+            Get All Models
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.TransmissionController.GetById(System.Int32)">
+            <summary>
+            Get Transmission by Id
+            </summary>
+            <param name="id">Transmission Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarSaleSystem.Controllers.TransmissionController.GetAllTransmissionTypes">
+            <summary>
+            Get All Transmission types
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

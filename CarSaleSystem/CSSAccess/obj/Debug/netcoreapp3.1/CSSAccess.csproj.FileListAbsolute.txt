@@ -1,0 +1,15 @@
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.AssemblyInfo.cs
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSAccess.deps.json
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSAccess.runtimeconfig.json
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSAccess.runtimeconfig.dev.json
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSAccess.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSAccess.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSEntity.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\bin\Debug\netcoreapp3.1\CSSEntity.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.csproj.CopyComplete
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSAccess\obj\Debug\netcoreapp3.1\CSSAccess.genruntimeconfig.cache

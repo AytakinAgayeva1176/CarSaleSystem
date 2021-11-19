@@ -1,0 +1,14 @@
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.AssemblyInfo.cs
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSBusiness.deps.json
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSBusiness.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSBusiness.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSAccess.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSEntity.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSAccess.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\bin\Debug\netcoreapp3.1\CSSEntity.pdb
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.csproj.CopyComplete
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.dll
+C:\Users\Code\source\repos\CarSaleSystem\CSSBusiness\obj\Debug\netcoreapp3.1\CSSBusiness.pdb
